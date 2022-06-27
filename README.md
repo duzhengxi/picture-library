@@ -18,7 +18,6 @@ PC端
 ![image](https://user-images.githubusercontent.com/99812333/175951593-5de54b3c-9f75-41f3-a1f8-48587fba306f.png)
 ![image](https://user-images.githubusercontent.com/99812333/175952085-2359872f-8638-4a01-8f7d-a796745a9716.png)
 详情页
-![image](https://user-images.githubusercontent.com/99812333/175952395-87fbc4b4-5a04-4d85-81f9-8645fc6e0e0c.png)
 ![image](https://user-images.githubusercontent.com/99812333/175952483-70eb4f66-b048-4da3-b0c4-edfea8678ed7.png)
 ![image](https://user-images.githubusercontent.com/99812333/175952709-db9c0c30-dee8-42f1-97f7-0a4bc7fc604a.png)
 
